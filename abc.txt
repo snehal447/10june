@@ -3,3 +3,5 @@ how are you
 this is our 1st version
 hope you are doing good 
 this is our 2nd version
+this is data science class we are learning git for data science 
+this is our 3rd version
